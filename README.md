@@ -16,7 +16,7 @@
 - **Frontend**: Flutter
 - **Backend**: Python, Dart
 - **Database**: Firebase
-- **AI**: Pitorch for image recognition
+- **AI**: Pytorch for image recognition
 - **Maps Integration**: Google Maps API
 
 ## Installation
