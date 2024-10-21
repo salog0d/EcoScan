@@ -1,6 +1,6 @@
 # EcoScan
 
-![EcoScan Logo](path/to/logo_ecoscan.png)
+![EcoScan Logo](Descargas/logo.png)
 
 **Slogan:** Scan. Recycle. Transform.
 
